@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     cout << "Bonjour" << endl;
     cout<<"Tciao"<<endl;
-    cout<<"c'est encore moi"<<endl;
+    cout<<"Encoe moi"<<endl;
     return 0;
 }
 
